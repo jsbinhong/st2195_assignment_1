@@ -1,0 +1,25 @@
+
+---
+title: "ST2195 Practice Assignment 1"
+author: "Joshwa Sim"
+date: "2026-10-09"
+output: html_document
+---
+
+# Introduction
+
+This R Markdown document demonstrates how to print integers from 1 to 10 using R.
+
+## R Code
+
+The following code uses a for loop to print integers from 1 to 10.
+
+```{r}
+for (i in 1:10) {
+  print(i)
+}
+```
+
+## Conclusion
+
+The R for loop successfully prints all integers from 1 to 10.
